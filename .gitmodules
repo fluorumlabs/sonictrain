@@ -1,0 +1,3 @@
+[submodule "modules/m101-power-supply"]
+	path = modules/m101-power-supply
+	url = https://github.com/fluorumlabs/m101-power-supply.git
